@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity Graphics and Game dev
 - 🌱 I’m currently learning Calculus and more Post-Processing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me romain.bodard@videotron.ca or Romain B. #9047 on Discord.
+- 📫 You can reach me out by writing to romain.bodard@videotron.ca or by adding me on Discord @"Romain B. #9047".
 
 <!---
 bodardr/bodardr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
